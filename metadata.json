@@ -1,0 +1,5 @@
+
+{
+  "name": "MONAI Model Packager Guide",
+  "description": "An expert MLOps guide to package a pre-trained 3D MONAI segmentation model into a single, distributable command-line executable using PyInstaller."
+}
